@@ -1,12 +1,12 @@
 name = "Shear"
 author = "BlueSheep2804"
-version = "21.4.0"
+version = "21.4.1-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e58a5738f6c0f01cfaa23cd114dc716d606f236c0a8273c38067d2443fd99abc"
+hash = "06dd7cb2e596f07de5d59537c8f70ff73853cdfb139b51ea1c540956acffdf45"
 
 [versions]
 fabric = "0.16.10"
