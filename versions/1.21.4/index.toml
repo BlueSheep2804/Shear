@@ -17,6 +17,10 @@ file = "config/yosbr/config/capes.json5"
 hash = "b9bc22b0df86983486c5b7cff6189bc1ae531d59b6a6bb9f083423e59d6ac27a"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "63d288970376b8b8a42c0d81a3bdfdc6c258c14d1f772df6c7aa019de4b039dd"
+
+[[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "570ac053c6e61f972afbeb609ac88d384138d7138f94b5bb3c5c51821b636f85"
 
