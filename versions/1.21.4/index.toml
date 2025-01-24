@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "e9e61bec73b40bda5c46cf1e986f350ac39c3d5d670e232d5a9be153c0c1676c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "b9bc22b0df86983486c5b7cff6189bc1ae531d59b6a6bb9f083423e59d6ac27a"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "4ebc93cfcf17ce5df0949bfa5f1920bc3942e997b6b5569ae2c5013be2b9e554"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "32f2afec88fa2f41127df4e7b76170b0e49b0877c20151be46f3485ac3c69b37"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8e9543269fa9b98be68470b5b74f0fddf2bc434db6756116b284b6814d290f1f"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e6e5f11d4aaaad009a632af9a2206a95ddf880742d070c4a291eae77a2006915"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
 metafile = true

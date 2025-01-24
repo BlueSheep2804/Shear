@@ -1,0 +1,11 @@
+version:4189
+japaneseGlyphVariants:true
+enableVsync:false
+renderDistance:8
+simulationDistance:8
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["badoptimizations","modernfix","yet_another_config_lib_v3"]
+onboardAccessibility:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
