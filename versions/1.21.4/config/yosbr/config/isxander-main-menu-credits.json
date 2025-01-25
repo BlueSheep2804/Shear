@@ -1,6 +1,6 @@
 {
     "main_menu": {
-        "bottom_right": [
+        "bottom_left": [
             {
                 "text": "Shear 21.4.1-beta",
                 "clickEvent": {
