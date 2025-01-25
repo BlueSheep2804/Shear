@@ -21,6 +21,10 @@ file = "config/yosbr/config/controlify.json"
 hash = "63d288970376b8b8a42c0d81a3bdfdc6c258c14d1f772df6c7aa019de4b039dd"
 
 [[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "7f2acbf5cc36adb4eeb7932ad4d556534ef3b86768ec61292e086ac0be5e2660"
+
+[[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "7a2e5b5fa8be16227a1ba45d1a3013a90805b2fad63bf0df15fa77f49e015d6f"
 
