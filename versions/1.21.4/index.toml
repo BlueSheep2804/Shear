@@ -42,7 +42,7 @@ hash = "8e9543269fa9b98be68470b5b74f0fddf2bc434db6756116b284b6814d290f1f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "da4e0dcdfdaccf56597d4787294ce4cce5b2ec858781c62c8bcde540dcb903fb"
+hash = "15c7739925ff8e0fae13e9071abb0b211f91304440f6a641fd9f35c577e05045"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
