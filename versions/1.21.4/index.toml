@@ -42,7 +42,7 @@ hash = "8e9543269fa9b98be68470b5b74f0fddf2bc434db6756116b284b6814d290f1f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e6e5f11d4aaaad009a632af9a2206a95ddf880742d070c4a291eae77a2006915"
+hash = "da4e0dcdfdaccf56597d4787294ce4cce5b2ec858781c62c8bcde540dcb903fb"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -263,6 +263,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Shear.zip"
+hash = "68df0d79d0ffd7bed309ce3211dcf85a5c97affb14f4972739d188b91039470b"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
