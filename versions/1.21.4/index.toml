@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Shear.zip"
-hash = "68df0d79d0ffd7bed309ce3211dcf85a5c97affb14f4972739d188b91039470b"
+hash = "583412b3b93de4a3a7ed6617b20cee8b5e66731c5551d2b90778edcb928f49fc"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
