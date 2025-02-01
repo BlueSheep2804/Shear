@@ -13,6 +13,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
+file = "config/yosbr/config/PaginatedAdvancements.json5"
+hash = "efd6b085f6cfd3b9704f674410a1e8ea116b6b101616f0121150c17018225f67"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "5851a4a940bfe7e9e30a6bc91233e46797e2c0f4470ac865e4dd49531d94bc87"
 
