@@ -259,6 +259,11 @@ hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
+file = "mods/toggle-visualize.pw.toml"
+hash = "3c2ad00c23437da1d65b17c4cf1acf19212641d30985d9ffc9db76667c31a182"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true

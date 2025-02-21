@@ -1,0 +1,13 @@
+name = "Toggle Visualize"
+filename = "togglevisualize-1.0.0+1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/brJIdf61/versions/IY3o3gQJ/togglevisualize-1.0.0%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "d8bfc27536a5f3a8c57193a648392fdd1b81988e76f41eaa0e9f34ef240683e5b34b1a52f712b0481abdfb5bd5c01c6d5a1dc7516226cd42c180ed4c45f9d0f1"
+
+[update]
+[update.modrinth]
+mod-id = "brJIdf61"
+version = "IY3o3gQJ"
