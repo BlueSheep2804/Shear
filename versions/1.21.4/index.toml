@@ -149,6 +149,11 @@ hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "25d8b382e17472cec7236a07182c693e4d01525af7cb668944582a85abfac8a1"
+metafile = true
+
+[[files]]
 file = "mods/hey-wiki.pw.toml"
 hash = "87c6b3a7eb7baa94804d2cce4db881af39af47858f1a2ad0b9b90a48626948e7"
 metafile = true
