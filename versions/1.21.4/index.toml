@@ -41,6 +41,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
 
 [[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "928939adb6cc8d96e156a9bc655741482ba328264858ac6ffef7480f30588288"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "8e9543269fa9b98be68470b5b74f0fddf2bc434db6756116b284b6814d290f1f"
 
@@ -246,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "f69fc83bd04cb36ae48e4c17c91d418cf4ce63ea1b357eb48f9a7116fa0b7257"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0a6fccc10af5a38576a0bb21944403a64a498abdad8b067978c632e69a3e5ab7"
 metafile = true
 
 [[files]]
