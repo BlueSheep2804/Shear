@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_left": [
             {
-                "text": "Shear 21.4.4-beta",
+                "text": "Shear 21.4.4",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://modrinth.com/project/ZGsVB4jh"
