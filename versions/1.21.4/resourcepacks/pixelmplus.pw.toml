@@ -1,0 +1,13 @@
+name = "PixelMPlus"
+filename = "pixelmplus12_1.20.5-1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pDMnIsMU/versions/uS9sMXA9/pixelmplus12_1.20.5-1.21.4.zip"
+hash-format = "sha512"
+hash = "a867416763400695a53b4a688d797536710f48913fd7496bf04a00c6089c52456c6b5d3042fbfb5a280ddf0d374801aa0b75aa237e62e490d0f2c46dfa1187a2"
+
+[update]
+[update.modrinth]
+mod-id = "pDMnIsMU"
+version = "uS9sMXA9"

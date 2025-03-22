@@ -312,6 +312,11 @@ hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pixelmplus.pw.toml"
+hash = "20158bdfaca03ebe1da695fc01ee4c847a5ed86161874846e81f39968436b315"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
