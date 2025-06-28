@@ -42,7 +42,7 @@ hash = "2497c554b61caaa0dfacb566ee570e6a57f2eb4aa06be2a198665fde6418fc86"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6f7fffd24ee5f2cbe2f30f47ea9e0c4d44851ccca5414e47f6e723be8207fb37"
+hash = "566fc0042d5bef246f08615dffe70d810b8bcaef9059ae22c9b1824c345b18c9"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -245,6 +245,10 @@ hash = "a61fdddd249e4f874a28e8c1c8c8ea9bd36707bf9025e00d5fac07b80578d03c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Shear.zip"
+hash = "a9135e444f4c347b4cd7fc5f420a84e88e4b08f0c611e1a36f26c642aaf869d1"
+
+[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "9c2f16ea4925e7e8ed263b1f0fc4b5bd159fa72ea8ca246d026bff60e2607c9f"
 metafile = true
@@ -262,4 +266,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-armor-trims.pw.toml"
+hash = "3dba3a01f013c89fc9322dffaa418fda97715e2dfd45bf99200520b83ff348b9"
 metafile = true
