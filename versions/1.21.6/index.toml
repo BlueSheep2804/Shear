@@ -22,7 +22,7 @@ hash = "806a7cc4e3727e9bbafcbc74bc2214798223fcc2b5dffaddb4930d18f46c78c2"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "1b588b338e12e91b1ad03da097f8c08236e53f50ba29c3a6d2e7884aa8106efb"
+hash = "d8e034d82e3f704bdb5a1a279d7d39ca2d300f911fbcdc5af70e3fdc6d6701b4"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
