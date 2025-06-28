@@ -1,0 +1,20 @@
+{
+	sprintShow: true,
+	sprintPositionX: 16,
+	sprintPositionY: 32,
+	sprintShowText: false,
+	sprintTextPositionX: 36,
+	sprintTextPositionY: 36,
+	sneakShow: true,
+	sneakPositionX: 16,
+	sneakPositionY: 48,
+	sneakShowText: false,
+	sneakTextPositionX: 36,
+	sneakTextPositionY: 52,
+	flyingShow: true,
+	flyingPositionX: 16,
+	flyingPositionY: 64,
+	flyingShowText: false,
+	flyingTextPositionX: 36,
+	flyingTextPositionY: 68
+}

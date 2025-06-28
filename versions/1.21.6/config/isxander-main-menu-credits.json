@@ -1,0 +1,13 @@
+{
+    "main_menu": {
+        "bottom_left": [
+            {
+                "text": "Shear 21.6.0",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://modrinth.com/project/ZGsVB4jh"
+                }
+            }
+        ]
+    }
+}

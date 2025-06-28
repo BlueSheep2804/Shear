@@ -1,0 +1,13 @@
+name = "caramelChat"
+filename = "caramelChat-mc1.21.6-fabric-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M4vJe1FJ/versions/Z0Nh3on1/caramelChat-mc1.21.6-fabric-1.2.2.jar"
+hash-format = "sha512"
+hash = "f978be5cbe74adefbb837610699a3e3bcd7414aa38e8a7eeccca83819c59dbe24b4c1afca6294b3693eae1d30c942bb5fcbb993b9b777ce77fd48234d51730d5"
+
+[update]
+[update.modrinth]
+mod-id = "M4vJe1FJ"
+version = "Z0Nh3on1"

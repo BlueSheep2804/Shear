@@ -1,0 +1,17 @@
+{
+    "controls": {
+        "previewKey": {
+            "code": "key.keyboard.left.alt"
+        },
+        "fullPreviewKey": {
+            "code": "key.keyboard.left.shift"
+        }
+    },
+    "preview": {
+        "alwaysOn": true,
+        "serverIntegration": false
+    },
+    "tooltip": {
+        "type": "NONE"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "extra_settings": {
+        "text_contrast": "BACKGROUND",
+        "show_fps": true,
+        "show_coords": true,
+        "tutorial_toast": false
+    }
+}

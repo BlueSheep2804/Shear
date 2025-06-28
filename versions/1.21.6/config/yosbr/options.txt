@@ -1,0 +1,15 @@
+version:4435
+japaneseGlyphVariants:true
+maxFps:60
+enableVsync:false
+renderDistance:8
+simulationDistance:8
+fullscreen:true
+darkMojangStudiosBackground:true
+lang:ja_jp
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/Shear.zip"]
+incompatibleResourcePacks:["badoptimizations","modernfix","yet_another_config_lib_v3"]
+onboardAccessibility:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+soundCategory_music:0.5
