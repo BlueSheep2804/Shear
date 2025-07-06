@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "e2a9c85c9904bf1e229a9c7f8b1117bc53b75870e59c64e87f03a6414951d49a"
+hash = "ba517b146d54787d2e87d3301794a0d878c8c976b53e8f5f85ac400ed765e0ef"
 metafile = true
 
 [[files]]
@@ -90,18 +90,23 @@ hash = "fd8d353e993cf0f7cfe2c43cded5fdfc53f8a3432228acda844234f2653c56c1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "f57699a82276901eb975bc2c296b713e0ad32c977be4aa71b458edf38548829a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8ef4e51b3eda851c3a6dbea3d75c0fd909c8ee0e6d2e1f17afa5bb8401162580"
+hash = "248c1ac2aae814060e21667875746170604d29859e56f1b08c3a0fc1eebfbd9f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
 metafile = true
 
 [[files]]
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
+hash = "36d3f5054974aa0abfd8edb01d7b99d41497c90559e52485dbc0d1e420f4bba0"
 metafile = true
 
 [[files]]
@@ -136,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0059d56b0e8bbfcf4d26bdbfe7f37ad8f2404b1ac69493f5f27598b62b6ffef7"
+hash = "514654bd35a16a2fdf3eed6f5647ea3c5eb8a0b2c322ae1f8b7653526601bf85"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "20cf3adc13022f6f0a7ea317c511964214e552cb33fe0f231fff88ec4a119a58"
+hash = "b5ad1b356894227fd3ac2b323b115cf6c20447e2802798081495cd3e21fb8aa5"
 metafile = true
 
 [[files]]
@@ -151,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
@@ -186,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "bc196e02ff6f1f01924f732f9635c26c8a9a9dc144d98dbe6da9ed3859b2ddf5"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ hash = "a9135e444f4c347b4cd7fc5f420a84e88e4b08f0c611e1a36f26c642aaf869d1"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "9c2f16ea4925e7e8ed263b1f0fc4b5bd159fa72ea8ca246d026bff60e2607c9f"
+hash = "c423de38b5b7fc70d98f4520d677840fed1d73d91cac0727d10b8e9f62c0c4ca"
 metafile = true
 
 [[files]]
@@ -265,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
+hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
 metafile = true
 
 [[files]]
