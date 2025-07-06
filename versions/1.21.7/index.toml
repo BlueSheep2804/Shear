@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "131d4b3f4974f6da5b1caaa4bdd220d33f32e00e669e3b369434f8e4134a55d0"
+hash = "ddff51f65f84b26dc56728e36b309cb8f4af789faf14c45f73d39b9033e6e949"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -197,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3ffb9019227e25cad6c8faeae3184c9bc9207ba1260dc465f6781e9b65dcc35d"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "54ac805fee2d7e8295b288fef70a739ef27fe39532d47254e265c6b17741fd07"
 metafile = true
 
 [[files]]

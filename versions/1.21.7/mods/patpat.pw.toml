@@ -1,0 +1,13 @@
+name = "PatPat"
+filename = "PatPat-1.1.1+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dw7LChq9/versions/s750CfPo/PatPat-1.1.1%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "0085b9cf4f8e4d7b739e49a8be9855c7b7b82c3ffdd6acc549b87541b7b3be8cb0b0efce91b1c81ea0d5d847702933bb977e6affd9852cdc00cd3c45765b7036"
+
+[update]
+[update.modrinth]
+mod-id = "dw7LChq9"
+version = "s750CfPo"
