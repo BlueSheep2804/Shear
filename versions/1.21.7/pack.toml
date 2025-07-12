@@ -1,6 +1,6 @@
 name = "Shear"
 author = "BlueSheep2804"
-version = "21.7.1-beta"
+version = "21.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
