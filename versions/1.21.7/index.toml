@@ -80,6 +80,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "2d32fa62bd0a738d90cd57a6728529891844710f3060d31de660c5395f4f85c0"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3ffb9019227e25cad6c8faeae3184c9bc9207ba1260dc465f6781e9b65dcc35d"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "a3d8f556cae0e5922043be6613c122fc586f99275c339c5900e09cd86d5e9781"
 metafile = true
 
 [[files]]
